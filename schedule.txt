@@ -1,0 +1,39 @@
+Subjects to study
+Decide the priority later and accordingly
+
+1.Aerodynamics
+2.Python programming for scientific software
+3.CFD for practicality
+4.Maths for physics- PDE AND ODE and COMPLEX variables
+5.Mechanics of materials- help in getting structural knowldege
+6.Electrical- overall base for a lot of things
+7.CAD - fusion 360- needed for modelling
+
+
+#it is possible to study all the seven, maths, and CAD are not too extensive. Mech may be short as well.
+
+#Electrical is very important seeing my mid term marks.
+
+#Exams may be shifted and even if not we will cross the bridge when we reach it.
+
+#Compromise on maths will have drastic impact on my space science studies.
+
+#Aerodynamics theory is cool and needed in the core aspect.
+
+#CFD seems good after aerodynamic theory, intense knwoleddge required, may go hand in hand.
+
+#CAD and CFD provide semi practical knowledge.
+
+#For designing , at present , for aircraft what is needed is Aerodynamics, CFD, CAD, Structural mechanics.
+
+#For research too the above theroetical aspects are very important.
+
+#For rocket and circuitry and embedded systems, maths and electronics is very important.
+
+#This list is highly temporary and will change soon but the knowldege would be highly substancial throughout.
+
+Important links
+
+#For finding the size of the first mesh layer to effectively caopture the boundary layer, use the software: https://www.pointwise.com/yplus/index.html
+
+#What is y+ in CFD: https://www.simscale.com/forum/t/what-is-y-yplus/82394
